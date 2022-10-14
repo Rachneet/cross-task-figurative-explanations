@@ -1,0 +1,7 @@
+tqdm~=4.64.0
+datasets~=2.4.0
+wandb~=0.12.21
+transformers~=4.20.1
+torch==1.11.0
+bert_score==0.3.11
+datasets
