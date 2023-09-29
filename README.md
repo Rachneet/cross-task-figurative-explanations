@@ -85,5 +85,12 @@ background details on the respective publication.
 If you use this code, please cite the following paper:
 
 ```text
-COMING SOON
+@misc{bigoulaeva2022effective,
+      title={Effective Cross-Task Transfer Learning for Explainable Natural Language Inference with T5}, 
+      author={Irina Bigoulaeva and Rachneet Sachdeva and Harish Tayyar Madabushi and Aline Villavicencio and Iryna Gurevych},
+      year={2022},
+      eprint={2210.17301},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
